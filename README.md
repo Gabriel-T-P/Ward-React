@@ -35,7 +35,7 @@ npm run lint     # ESLint
 ```
 src/
   components/
-    brand/       # WardLogo (SVG vetorial)
+    brand/       # WardLogo (SVG)
     ui/          # Button, Card, Input, Badge, BottomSheet, Fab
     layout/      # AppLayout, BottomNav, Screen
     map/         # DiseaseMap, DiseaseMarker, DiseaseSheet, AlertCard
@@ -55,18 +55,10 @@ src/
 ## Dados e persistencia
 
 - Todo o conteudo e lido dos JSONs em `src/data/`.
-- **Nada e salvo.** Botoes de "salvar" (registrar caso, etc.) sao apenas decorativos nesta versao. O usuario final nao adiciona nem edita dados.
+- Botoes de "salvar" (registrar caso, etc.) sao apenas decorativos nesta versao. O usuario final nao adiciona nem edita dados.
 
 ## Mapa
 
 - Tiles do OpenStreetMap via React Leaflet.
 - Centralizacao por **geolocalizacao real** do navegador, com fallback para um centro fixo (Sao Luis / MA) caso a permissao seja negada.
 - Marcadores coloridos por nivel de risco: verde (baixo), amarelo (medio), vermelho (alto).
-
-## Design
-
-Estilo minimalista inspirado em Apple Health / Google Fit: mobile-first, muito whitespace, cantos arredondados, sombras suaves e paleta enxuta (vermelho `#EF4444` + neutros). As cores verde/amarelo/vermelho sao usadas exclusivamente para indicar risco.
-
-## Aviso
-
-As informacoes de saude aqui sao ficticias, geradas para fins de demonstracao academica.
