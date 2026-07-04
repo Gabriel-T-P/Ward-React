@@ -19,7 +19,7 @@ Projeto academico com foco em UX/UI: **sem backend, sem banco de dados e sem aut
 
 ```bash
 npm install
-npm run dev      # inicia o dev server (http://localhost:5173)
+npm run dev      # inicia o dev server (http://localhost:5173/login)
 ```
 
 Outros scripts:
