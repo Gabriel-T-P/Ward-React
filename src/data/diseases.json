@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Dengue",
+    "lat": -2.5307,
+    "lng": -44.2989,
+    "cases": 152,
+    "risk": "high",
+    "date": "2026-06-28",
+    "prevention": [
+      "Elimine agua parada em vasos, pneus e caixas d'agua",
+      "Use repelente durante o dia",
+      "Mantenha telas em janelas e portas"
+    ],
+    "vaccineName": "Dengue (Qdenga)",
+    "vaccinated": false
+  },
+  {
+    "id": 2,
+    "name": "Chikungunya",
+    "lat": -2.5489,
+    "lng": -44.2701,
+    "cases": 87,
+    "risk": "high",
+    "date": "2026-06-25",
+    "prevention": [
+      "Evite acumulo de agua limpa parada",
+      "Use roupas que cubram bracos e pernas",
+      "Aplique repelente regularmente"
+    ],
+    "vaccinated": false
+  },
+  {
+    "id": 3,
+    "name": "Zika",
+    "lat": -2.5122,
+    "lng": -44.3060,
+    "cases": 41,
+    "risk": "medium",
+    "date": "2026-06-20",
+    "prevention": [
+      "Proteja-se da picada do Aedes aegypti",
+      "Gestantes devem redobrar os cuidados",
+      "Elimine criadouros do mosquito"
+    ],
+    "vaccinated": false
+  },
+  {
+    "id": 4,
+    "name": "Influenza (Gripe)",
+    "lat": -2.5601,
+    "lng": -44.3042,
+    "cases": 63,
+    "risk": "medium",
+    "date": "2026-06-27",
+    "prevention": [
+      "Mantenha a vacinacao anual em dia",
+      "Lave as maos com frequencia",
+      "Evite ambientes fechados e aglomerados"
+    ],
+    "vaccineName": "Influenza",
+    "vaccinated": true
+  },
+  {
+    "id": 5,
+    "name": "Covid-19",
+    "lat": -2.4988,
+    "lng": -44.2588,
+    "cases": 28,
+    "risk": "low",
+    "date": "2026-06-22",
+    "prevention": [
+      "Mantenha as doses de reforco atualizadas",
+      "Use mascara em locais de risco",
+      "Higienize as maos regularmente"
+    ],
+    "vaccineName": "Covid-19",
+    "vaccinated": true
+  },
+  {
+    "id": 6,
+    "name": "Leptospirose",
+    "lat": -2.5765,
+    "lng": -44.2495,
+    "cases": 12,
+    "risk": "low",
+    "date": "2026-06-15",
+    "prevention": [
+      "Evite contato com agua de enchentes",
+      "Use botas e luvas em areas alagadas",
+      "Combata a presenca de roedores"
+    ],
+    "vaccinated": false
+  },
+  {
+    "id": 7,
+    "name": "Sarampo",
+    "lat": -2.5334,
+    "lng": -44.2372,
+    "cases": 9,
+    "risk": "medium",
+    "date": "2026-06-18",
+    "prevention": [
+      "Verifique a caderneta de vacinacao (triplice viral)",
+      "Evite contato com pessoas infectadas",
+      "Procure atendimento ao notar sintomas"
+    ],
+    "vaccineName": "Triplice Viral (SCR)",
+    "vaccinated": false
+  }
+]

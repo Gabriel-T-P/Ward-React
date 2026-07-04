@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Covid-19",
+    "taken": true,
+    "takenAt": "2025-05-01",
+    "expiresAt": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "name": "Influenza",
+    "taken": true,
+    "takenAt": "2026-04-02",
+    "expiresAt": "2026-08-20"
+  },
+  {
+    "id": 3,
+    "name": "Triplice Viral (SCR)",
+    "taken": true,
+    "takenAt": "2019-03-15"
+  },
+  {
+    "id": 4,
+    "name": "Hepatite B",
+    "taken": true,
+    "takenAt": "2018-08-21"
+  },
+  {
+    "id": 5,
+    "name": "Febre Amarela",
+    "taken": false
+  },
+  {
+    "id": 6,
+    "name": "Dengue (Qdenga)",
+    "taken": false
+  }
+]

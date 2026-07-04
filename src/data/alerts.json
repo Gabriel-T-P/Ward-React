@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Surto de Dengue perto de voce",
+    "description": "Aumento de 34% nos casos de Dengue no seu bairro nas ultimas duas semanas. Reforce a eliminacao de criadouros do mosquito e mantenha-se atento aos sintomas.",
+    "risk": "high",
+    "date": "2026-06-28",
+    "distanceKm": 1.2
+  },
+  {
+    "id": 2,
+    "title": "Casos de Chikungunya em alta",
+    "description": "A regiao registra novos casos de Chikungunya. Use repelente e proteja-se das picadas durante o dia.",
+    "risk": "high",
+    "date": "2026-06-25",
+    "distanceKm": 3.5
+  },
+  {
+    "id": 3,
+    "title": "Campanha de vacinacao contra a Gripe",
+    "description": "Postos de saude proximos estao com doses disponiveis da vacina da Influenza. Grupos prioritarios devem se vacinar.",
+    "risk": "medium",
+    "date": "2026-06-24",
+    "distanceKm": 2.1
+  },
+  {
+    "id": 4,
+    "title": "Monitoramento de Zika",
+    "description": "Casos isolados de Zika foram identificados na cidade. Gestantes devem redobrar os cuidados contra o Aedes aegypti.",
+    "risk": "medium",
+    "date": "2026-06-20",
+    "distanceKm": 4.8
+  },
+  {
+    "id": 5,
+    "title": "Covid-19 sob controle na regiao",
+    "description": "Os casos de Covid-19 seguem em queda. Mantenha suas doses de reforco em dia para continuar protegido.",
+    "risk": "low",
+    "date": "2026-06-22",
+    "distanceKm": 0.8
+  }
+]

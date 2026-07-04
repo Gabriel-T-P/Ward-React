@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "UBS Centro",
+    "lat": -2.5297,
+    "lng": -44.3028,
+    "address": "Rua Grande, 123 - Centro",
+    "hours": "Seg a Sex, 8h - 17h",
+    "vaccines": [
+      "Influenza",
+      "Covid-19",
+      "Hepatite B",
+      "Triplice Viral (SCR)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Posto de Saude Cohab",
+    "lat": -2.5561,
+    "lng": -44.2536,
+    "address": "Av. dos Africanos, 456 - Cohab",
+    "hours": "Seg a Sex, 7h - 16h",
+    "vaccines": ["Influenza", "Febre Amarela", "Dengue (Qdenga)"]
+  },
+  {
+    "id": 3,
+    "name": "Clinica da Familia Renascenca",
+    "lat": -2.4959,
+    "lng": -44.2887,
+    "address": "Av. Ana Jansen, 789 - Renascenca",
+    "hours": "Seg a Sab, 8h - 18h",
+    "vaccines": ["Covid-19", "Influenza", "Dengue (Qdenga)"]
+  },
+  {
+    "id": 4,
+    "name": "UPA Vinhais",
+    "lat": -2.5643,
+    "lng": -44.2418,
+    "address": "Rua 12, s/n - Vinhais",
+    "hours": "24 horas",
+    "vaccines": ["Febre Amarela", "Triplice Viral (SCR)", "Hepatite B"]
+  },
+  {
+    "id": 5,
+    "name": "Hospital Municipal Djalma Marques",
+    "lat": -2.5372,
+    "lng": -44.2825,
+    "address": "Rua do Passeio, 546 - Centro",
+    "hours": "24 horas",
+    "vaccines": ["Covid-19", "Influenza", "Febre Amarela", "Hepatite B"]
+  }
+]
